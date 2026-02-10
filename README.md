@@ -1,2 +1,2 @@
 # onecx-chat
-OneCx chat Management
+OneCX Chat
