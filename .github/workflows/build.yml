@@ -10,5 +10,5 @@ on:
 
 jobs:
   helm:
-    uses: onecx-apps/ci-product/.github/workflows/build.yml@v1
+    uses: onecx/ci-product/.github/workflows/build.yml@v1
     secrets: inherit
