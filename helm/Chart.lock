@@ -1,0 +1,15 @@
+dependencies:
+- name: helm-product
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.4.0
+- name: onecx-chat-svc
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.7
+- name: onecx-chat-bff
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.9
+- name: onecx-chat-ui
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.3
+digest: sha256:9284b432adcc3567164f4679e653a7d51282fd1aa5f193b098f42cd64f411774
+generated: "2026-02-17T11:17:10.505390596+01:00"
