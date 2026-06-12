@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.38
 - name: onecx-chat-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.22
-digest: sha256:62369c69fce439c6d9d5ee446b48e10ad7926f553c390357f2f286cd4d3cd9ce
-generated: "2026-06-12T08:14:31.92279584Z"
+  version: 0.0.0-rc.23
+digest: sha256:6c595bcc8bb77f9abac714a4d60d9c6d00f968e9ce05680512236c0969764efa
+generated: "2026-06-12T08:16:47.11839546Z"
