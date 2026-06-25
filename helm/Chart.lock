@@ -7,9 +7,9 @@ dependencies:
   version: 0.0.0-rc.43
 - name: onecx-chat-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.40
+  version: 0.0.0-rc.41
 - name: onecx-chat-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.25
-digest: sha256:a47cea00057b8dab9b6d3829cb7de32c5b04d9fbd4f2ec885f4f93f07d873870
-generated: "2026-06-17T18:42:46.857533774Z"
+  version: 0.0.0-rc.26
+digest: sha256:76e3d95b66dfe1a74450c141a0cac99ff6a72da7c89d071ed9273973980b3b69
+generated: "2026-06-25T16:51:30.761651352Z"
