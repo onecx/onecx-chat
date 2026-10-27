@@ -22,3 +22,8 @@ dependencies:
   repository: oci://ghcr.io/onecx/charts
   condition: "deployment.ui"
   alias: "ui"
+- name: onecx-pipecat
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.pipecat"
+  alias: "pipecat"
