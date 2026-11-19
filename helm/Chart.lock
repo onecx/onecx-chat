@@ -13,6 +13,6 @@ dependencies:
   version: 0.0.0-rc.105
 - name: onecx-pipecat
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.49
-digest: sha256:19c91bb449a24a11c7837ad04f7d484c948ca7b5df17f6040f75441419b65e12
-generated: "2026-11-18T16:37:52.05912938Z"
+  version: 0.0.0-rc.50
+digest: sha256:fc52531010f6c2bc5d15cc38c6f6841eee9eac1cee6daa6cb09ceb23ef142045
+generated: "2026-11-19T12:45:52.918578419Z"
